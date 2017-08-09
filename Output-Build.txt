@@ -1,0 +1,14 @@
+﻿------ Rebuild All started: Project: CentralServerApp, Configuration: Debug Any CPU ------
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(59,17): warning CS0219: The variable 'f' is assigned but its value is never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(86,30): warning CS0168: The variable 'ex' is declared but never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(202,30): warning CS0168: The variable 'ex' is declared but never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(338,30): warning CS0168: The variable 'ex' is declared but never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(467,30): warning CS0168: The variable 'ex' is declared but never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(501,30): warning CS0168: The variable 'ex' is declared but never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(25,19): warning CS0169: The field 'CentralServerApp.EncryptData.f1' is never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(25,22): warning CS0169: The field 'CentralServerApp.EncryptData.f2' is never used
+E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\EncryptData.asmx.cs(25,25): warning CS0169: The field 'CentralServerApp.EncryptData.g1' is never used
+
+Compile complete -- 0 errors, 9 warnings
+  CentralServerApp -> E:\BE 2014\Final Cloud\CentralServerApp\CentralServerApp\bin\CentralServerApp.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
